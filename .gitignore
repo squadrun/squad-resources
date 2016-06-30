@@ -1,0 +1,10 @@
+*.log
+*.pot
+
+# Translations
+*.mo
+
+# Developer
+.idea/
+.DS_Store
+*~
