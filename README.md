@@ -15,6 +15,7 @@ Microservices
 API Design
 - [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
 
-Platform
+Platform & Arch
 - [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
+- [12 factor app](http://12factor.net/)
  
