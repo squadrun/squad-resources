@@ -4,3 +4,23 @@ PostgreSQL
 - [Visualizing Explain Analyze](https://explain.depesz.com/)
 - [Index Maintainenance Tips](https://wiki.postgresql.org/wiki/Index_Maintenance)
 - [Understanding Lateral Join in Postgres](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
+
+Python #TODO
+-
+
+Django #TODO
+- 
+
+
+Microservices
+- [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
+- [Django microservices made easy](https://opbeat.com/community/posts/django-microservices-made-easy-by-paul-hallett/)
+- [10 Questions to ask when building microservices](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
+- [A definition to the new architectural term - Martin Fowler](http://martinfowler.com/articles/microservices.html)
+
+API Design
+- [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
+
+Platform
+- [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
+ 
