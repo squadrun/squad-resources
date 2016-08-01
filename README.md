@@ -5,12 +5,6 @@ PostgreSQL
 - [Index Maintainenance Tips](https://wiki.postgresql.org/wiki/Index_Maintenance)
 - [Understanding Lateral Join in Postgres](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 
-Python #TODO
--
-
-Django #TODO
-- 
-
 
 Microservices
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
