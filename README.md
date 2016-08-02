@@ -18,4 +18,9 @@ API Design
 Platform & Arch
 - [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
 - [12 factor app](http://12factor.net/)
+
+
+WSGI
+- [WSGI explained](https://www.fullstackpython.com/wsgi-servers.html)
+- [Django deployments and WSGI](https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/)
  
