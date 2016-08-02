@@ -24,3 +24,6 @@ WSGI
 - [WSGI explained](https://www.fullstackpython.com/wsgi-servers.html)
 - [Django deployments and WSGI](https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/)
  
+Django migrations
+- [Migrations without downtimes](http://pankrat.github.io/2015/django-migrations-without-downtimes/)
+ 
