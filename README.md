@@ -16,8 +16,10 @@ API Design
 - [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
 
 Platform & Arch
+- [Empire intro](http://engineering.remind.com/introducing-empire/)
 - [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
 - [12 factor app](http://12factor.net/)
+- [AWS ELB for RabbitMQ cluster](https://discuss.zendesk.com/hc/en-us/articles/219939187-Using-Amazon-ELB-with-RabbitMQ)
 
 
 WSGI
@@ -26,4 +28,7 @@ WSGI
  
 Django migrations
 - [Migrations without downtimes](http://pankrat.github.io/2015/django-migrations-without-downtimes/)
+
+Android
+- [Android code that scales](http://engineering.remind.com/android-code-that-scales/)
  
