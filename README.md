@@ -1,5 +1,4 @@
 PostgreSQL
-
 - [Understanding Explain Analyze](https://www.depesz.com/tag/explain/)
 - [Visualizing Explain Analyze](https://explain.depesz.com/)
 - [Index Maintainenance Tips](https://wiki.postgresql.org/wiki/Index_Maintenance)
@@ -32,3 +31,5 @@ Django migrations
 Android
 - [Android code that scales](http://engineering.remind.com/android-code-that-scales/)
  
+Django Goodies
+- [cached_property](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
