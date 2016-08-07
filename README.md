@@ -28,6 +28,8 @@
 
 *Django Goodies*
 * [cached_property](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
+ 
+
 ---
 
 # Android Best Practices
