@@ -21,6 +21,11 @@
 * [12 factor app](http://12factor.net/)
 * [AWS ELB for RabbitMQ cluster](https://discuss.zendesk.com/hc/en-us/articles/219939187-Using-Amazon-ELB-with-RabbitMQ)
 
+*Python*
+* [Zen of python](https://www.python.org/dev/peps/pep-0020/)
+* [pep08 style guide](https://www.python.org/dev/peps/pep-0008/)
+* [Google style guide](https://google.github.io/styleguide/pyguide.html)
+
 *WSGI*
 * [WSGI explained](https://www.fullstackpython.com/wsgi-servers.html)
 * [Django deployments and WSGI](https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/)
