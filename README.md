@@ -27,6 +27,7 @@
 * [Zen of python](https://www.python.org/dev/peps/pep-0020/)
 * [pep08 style guide](https://www.python.org/dev/peps/pep-0008/)
 * [Google style guide](https://google.github.io/styleguide/pyguide.html)
+* [Crash course in Python](https://www.oreilly.com/learning/data-science-from-scratch) - _for Data Scientists_
 
 *WSGI*
 * [WSGI explained](https://www.fullstackpython.com/wsgi-servers.html)
