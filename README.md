@@ -39,6 +39,8 @@
 *Django Goodies*
 * [cached_property](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
  
+*Shell scripting*
+* [Shell script comprehensive guide](http://www.shellscript.sh/)
 
 ---
 
