@@ -42,6 +42,9 @@
 *Shell scripting*
 * [Shell script comprehensive guide](http://www.shellscript.sh/)
 
+*Data Science*
+* [3 ideas to add to your DS toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
+
 ---
 
 # Android Best Practices
