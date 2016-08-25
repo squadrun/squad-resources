@@ -45,6 +45,9 @@
 *Data Science*
 * [3 ideas to add to your DS toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
 
+*Git*
+* [Git for Humans](https://github.com/kennethreitz/legit)
+
 ---
 
 # Android Best Practices
