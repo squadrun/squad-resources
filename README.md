@@ -44,6 +44,7 @@
 
 *Data Science*
 * [3 ideas to add to your DS toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
+* [Learning ML from ground-up quickly](https://www.reddit.com/r/MachineLearning/comments/3t8vx1/how_does_one_learn_machine_learning_quickly/)
 
 *Git*
 * [Git for Humans](https://github.com/kennethreitz/legit)
