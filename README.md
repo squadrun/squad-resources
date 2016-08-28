@@ -49,6 +49,10 @@
 *Git*
 * [Git for Humans](https://github.com/kennethreitz/legit)
 
+*Big Data Conferences* 
+- [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
+
+
 ---
 
 # Android Best Practices
