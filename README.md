@@ -50,10 +50,11 @@
 * [Git for Humans](https://github.com/kennethreitz/legit)
 
 *Big Data Conferences* 
-- [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
+* [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
 
 *Streaming Data*
-- [Google Data Flow](https://cloud.google.com/dataflow/blog/dataflow-beam-and-spark-comparison#logistics)
+* [Google Data Flow](https://cloud.google.com/dataflow/blog/dataflow-beam-and-spark-comparison#logistics)
+
 ---
 
 # Android Best Practices
