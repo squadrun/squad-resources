@@ -81,7 +81,7 @@
 * [Series Guide](https://github.com/UweTrottmann/SeriesGuide)
 * [Material Audio Book Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
 
-#### Helful Reddit
+#### Helpful Reddit
 * [Open Source Apps](https://www.reddit.com/r/androiddev/comments/4uw6e5/i_would_like_to_study_some_uptodate_open_source/)
 
 #### Design
