@@ -39,6 +39,10 @@
 #### Django Goodies
 * [cached_property](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
  
+#### Deployments
+* [Fabric - python](http://www.fabfile.org)
+* [Cuisine - Chef-like functionality for Fabric](https://github.com/sebastien/cuisine)
+
 #### Shell scripting
 * [Shell script comprehensive guide](http://www.shellscript.sh/)
 
