@@ -51,6 +51,7 @@
 * [Learning ML from ground-up quickly](https://www.reddit.com/r/MachineLearning/comments/3t8vx1/how_does_one_learn_machine_learning_quickly/)
 * [Deep learning infra @ openai](https://openai.com/blog/infrastructure-for-deep-learning/)
 * [Staying updated in Data Science](https://www.linkedin.com/pulse/how-i-stay-aware-latest-data-science-jun-ketyj)
+* [Using Python UDFs with Redshift](http://blog.yhat.com/posts/python-udfs.html)
 
 #### Git
 * [Git for Humans](https://github.com/kennethreitz/legit)
