@@ -29,6 +29,9 @@
 * [Google style guide](https://google.github.io/styleguide/pyguide.html)
 * [Crash course in Python](https://www.oreilly.com/learning/data-science-from-scratch) - _for Data Scientists_
 
+#### Finite State machines
+* [FSM implementation in python](https://github.com/tyarkoni/transitions)
+
 #### WSGI
 * [WSGI explained](https://www.fullstackpython.com/wsgi-servers.html)
 * [Django deployments and WSGI](https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/)
