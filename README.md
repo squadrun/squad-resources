@@ -13,6 +13,7 @@
 * [A definition to the new architectural term - Martin Fowler](http://martinfowler.com/articles/microservices.html)
 * [Microservices at Netflix](http://techblog.netflix.com/2015/02/a-microscope-on-microservices.html)
 * [microservices.io](http://microservices.io/)
+* [What do microservices really look like?](https://medium.com/@kashifrazzaqui/will-the-real-micro-service-please-stand-up-16bef3ed72ec)
 
 #### API Design
 * [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
