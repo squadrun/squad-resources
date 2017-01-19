@@ -11,6 +11,8 @@
 * [Even Better `Explain Analyze` Visualisation -- PEV](http://tatiyants.com/postgres-query-plan-visualization/)
 * [Index Maintainenance Tips](https://wiki.postgresql.org/wiki/Index_Maintenance)
 * [Understanding Lateral Join in Postgres](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
+* [Following a Select Statement Through Postgres Internals](http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals/)
+* [Postgresql: Monitor unused indexes](https://jmorano.moretrix.com/2014/02/postgresql-monitor-unused-indexes/)
 
 #### Microservices
 * [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
