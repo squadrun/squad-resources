@@ -3,7 +3,13 @@
 #### Network simulation
  - [Augmented Traffic Control (ATC) - by facebook](http://facebook.github.io/augmented-traffic-control/)
 
-# Good reads for backend engineering
+# Programming
+
+#### Design patterns
+* [Design patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns in Python](https://github.com/faif/python-patterns)
+
+# Backend engineering
 
 #### PostgreSQL
 * [Understanding Explain Analyze](https://www.depesz.com/tag/explain/)
@@ -37,6 +43,7 @@
 * [pep08 style guide](https://www.python.org/dev/peps/pep-0008/)
 * [Google style guide](https://google.github.io/styleguide/pyguide.html)
 * [Crash course in Python](https://www.oreilly.com/learning/data-science-from-scratch) - _for Data Scientists_
+* [Python Design Patterns](https://github.com/faif/python-patterns)
 
 #### Finite State machines
 * [FSM implementation in python](https://github.com/tyarkoni/transitions)
