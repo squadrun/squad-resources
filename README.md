@@ -50,6 +50,7 @@
 
 #### Django Goodies
 * [cached_property](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
+* [Awesome Django](https://github.com/rosarior/awesome-django) - _A curated list of awesome Django apps, projects and resources_
  
 #### Deployments
 * [Fabric - python](http://www.fabfile.org)
