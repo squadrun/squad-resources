@@ -29,8 +29,10 @@
 * [microservices.io](http://microservices.io/)
 * [What do microservices really look like?](https://medium.com/@kashifrazzaqui/will-the-real-micro-service-please-stand-up-16bef3ed72ec)
 
-#### API Design
+#### APIs & distributed communication 
 * [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
+* [How will HTTP/2 speed up the web?](https://kinsta.com/learn/what-is-http2/)
+* [HTTP/2 FAQs](https://http2.github.io/faq/)
 
 #### Platform & Arch
 * [Empire intro](http://engineering.remind.com/introducing-empire/)
