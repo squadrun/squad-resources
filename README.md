@@ -114,6 +114,7 @@
 
 #### Big Data Conferences
 * [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
+
 ---
 
 # Misc
@@ -127,5 +128,6 @@
 
 #### Git
 * [Git for Humans](https://github.com/kennethreitz/legit)
+
 ---
 
