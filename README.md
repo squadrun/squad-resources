@@ -33,6 +33,7 @@
 * [Best Practices - Lyst](https://github.com/lyst/MakingLyst/tree/master/api-best-practices#common-pitfalls)
 * [How will HTTP/2 speed up the web?](https://kinsta.com/learn/what-is-http2/)
 * [HTTP/2 FAQs](https://http2.github.io/faq/)
+* [HTTP/2 best practices](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/)
 
 #### Platform & Arch
 * [Empire intro](http://engineering.remind.com/introducing-empire/)
