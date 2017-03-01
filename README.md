@@ -3,18 +3,36 @@
 #### Network simulation
  - [Augmented Traffic Control (ATC) - by facebook](http://facebook.github.io/augmented-traffic-control/)
 
-# Machine Learning
+---
 
-#### Tools
-* [Deep Learning Meta framework](http://braidnn.org/)
-* [Workbench for DL](https://arya.ai/)
-* [Heroku for Deep Learning](https://www.floydhub.com/)
+# Android
 
-# Programming
+#### Logging
+* [Hugo: Annotation-triggered method call logging for your debug builds.](https://github.com/JakeWharton/hugo)
+* [Timber: A logger with a small, extensible API which provides utility on top of Android's normal Log class.](https://github.com/JakeWharton/timber)
+* [Android Quick Tips #4 — Debugging](https://futurestud.io/blog/android-quick-tips-4-debugging)
 
-#### Design patterns
-* [Design patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design Patterns in Python](https://github.com/faif/python-patterns)
+#### Architecture
+* [Ribot Architecture](https://github.com/ribot/android-boilerplate)
+* [Clean Architecture](https://github.com/android10/Android-CleanArchitecture)
+* [Android code that scales](http://engineering.remind.com/android-code-that-scales/)
+
+#### Open Source Apps
+* [Plaid](https://github.com/nickbutcher/plaid)
+* [uHabits](https://github.com/iSoron/uhabits)
+* [Series Guide](https://github.com/UweTrottmann/SeriesGuide)
+* [Material Audio Book Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
+
+#### Helpful Reddit
+* [Open Source Apps](https://www.reddit.com/r/androiddev/comments/4uw6e5/i_would_like_to_study_some_uptodate_open_source/)
+
+#### Design
+* [Scrolling Techniques for Material Design](http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435)
+
+#### Networking
+* [Effective OkHttp · omg it's mgp!](http://omgitsmgp.com/2015/12/02/effective-okhttp/)
+
+---
 
 # Backend engineering
 
@@ -73,50 +91,41 @@
 * [Fabric - python](http://www.fabfile.org)
 * [Cuisine - Chef-like functionality for Fabric](https://github.com/sebastien/cuisine)
 
-#### Shell scripting
-* [Shell script comprehensive guide](http://www.shellscript.sh/)
-
-#### Data Science
-* [3 ideas to add to your DS toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
-* [Learning ML from ground-up quickly](https://www.reddit.com/r/MachineLearning/comments/3t8vx1/how_does_one_learn_machine_learning_quickly/)
-* [Deep learning infra @ openai](https://openai.com/blog/infrastructure-for-deep-learning/)
-* [Staying updated in Data Science](https://www.linkedin.com/pulse/how-i-stay-aware-latest-data-science-jun-ketyj)
-* [Using Python UDFs with Redshift](http://blog.yhat.com/posts/python-udfs.html)
-
-#### Git
-* [Git for Humans](https://github.com/kennethreitz/legit)
-
-#### Big Data Conferences
-* [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
-
 #### Streaming Data
 * [Google Data Flow](https://cloud.google.com/dataflow/blog/dataflow-beam-and-spark-comparison#logistics)
 
 ---
 
-# Android Best Practices
+# Machine Learning & Data Science
 
-#### Logging
-* [Hugo: Annotation-triggered method call logging for your debug builds.](https://github.com/JakeWharton/hugo)
-* [Timber: A logger with a small, extensible API which provides utility on top of Android's normal Log class.](https://github.com/JakeWharton/timber)
-* [Android Quick Tips #4 — Debugging](https://futurestud.io/blog/android-quick-tips-4-debugging)
+#### Infrastructure
+* [Deep learning infra @ openai](https://openai.com/blog/infrastructure-for-deep-learning/)
 
-#### Architecture
-* [Ribot Architecture](https://github.com/ribot/android-boilerplate)
-* [Clean Architecture](https://github.com/android10/Android-CleanArchitecture)
-* [Android code that scales](http://engineering.remind.com/android-code-that-scales/)
+#### Other
+* [Learning ML from ground-up quickly](https://www.reddit.com/r/MachineLearning/comments/3t8vx1/how_does_one_learn_machine_learning_quickly/)
+* [Staying updated in Data Science](https://www.linkedin.com/pulse/how-i-stay-aware-latest-data-science-jun-ketyj)
+* [Using Python UDFs with Redshift](http://blog.yhat.com/posts/python-udfs.html)
 
-#### Open Source Apps
-* [Plaid](https://github.com/nickbutcher/plaid)
-* [uHabits](https://github.com/iSoron/uhabits)
-* [Series Guide](https://github.com/UweTrottmann/SeriesGuide)
-* [Material Audio Book Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
+#### Tools
+* [Deep Learning Meta framework](http://braidnn.org/)
+* [Workbench for DL](https://arya.ai/)
+* [Heroku for Deep Learning](https://www.floydhub.com/)
+* [3 ideas to add to your DS toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
 
-#### Helpful Reddit
-* [Open Source Apps](https://www.reddit.com/r/androiddev/comments/4uw6e5/i_would_like_to_study_some_uptodate_open_source/)
+#### Big Data Conferences
+* [Fifth Elephant](https://hasgeek.tv/fifthelephant/)
+---
 
-#### Design
-* [Scrolling Techniques for Material Design](http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435)
+# Misc
 
-#### Networking
-* [Effective OkHttp · omg it's mgp!](http://omgitsmgp.com/2015/12/02/effective-okhttp/)
+#### Design patterns
+* [Design patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns in Python](https://github.com/faif/python-patterns)
+
+#### Shell scripting
+* [Shell script comprehensive guide](http://www.shellscript.sh/)
+
+#### Git
+* [Git for Humans](https://github.com/kennethreitz/legit)
+---
+
