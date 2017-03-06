@@ -132,6 +132,9 @@
 ### Web developement
 - [Web development fundamentals - Google](https://developers.google.com/web/fundamentals/)
 
- 
+
+### Reading
+- [How to read a book](https://www.farnamstreetblog.com/how-to-read-a-book/)
+
 ---
 
