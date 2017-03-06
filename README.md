@@ -9,9 +9,6 @@
 * [Timber: A logger with a small, extensible API which provides utility on top of Android's normal Log class.](https://github.com/JakeWharton/timber)
 * [Android Quick Tips #4 — Debugging](https://futurestud.io/blog/android-quick-tips-4-debugging)
 
-# Angular
-* [Angular Expert Todd motto blog](https://toddmotto.com/)
-
 #### Architecture
 * [Ribot Architecture](https://github.com/ribot/android-boilerplate)
 * [Clean Architecture](https://github.com/android10/Android-CleanArchitecture)
@@ -137,10 +134,13 @@
 - [Google Chrome developer channel](https://www.youtube.com/user/ChromeDevelopers/playlists)
 - [Jake Archibald's blog](https://jakearchibald.com/)
 - [Web performance tips by Ilya Grigorik](https://www.igvita.com/)
-- [Nolan Lawson blog](https://nolanlawson.com/)
 
 #### JavaScript
 - [JavaScript and more by 2ality](http://www.2ality.com/)
+- [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+#### Angular
+* [Angular Expert Todd motto blog](https://toddmotto.com/)
 
 #### Reading
 - [How to read a book](https://www.farnamstreetblog.com/how-to-read-a-book/)
