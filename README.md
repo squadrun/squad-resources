@@ -138,6 +138,7 @@
 #### JavaScript
 - [JavaScript and more by 2ality](http://www.2ality.com/)
 - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- [JavaScript Start-up performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201)
 
 #### Angular
 * [Angular Expert Todd motto blog](https://toddmotto.com/)
