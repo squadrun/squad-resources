@@ -41,6 +41,7 @@
 * [Understanding Lateral Join in Postgres](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 * [Following a Select Statement Through Postgres Internals](http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals/)
 * [Postgresql: Monitor unused indexes](https://jmorano.moretrix.com/2014/02/postgresql-monitor-unused-indexes/)
+* [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter) (Check out Examples) and [Suggested Reading on it](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff#.xlkqtn1vy)
 
 #### Microservices
 * [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
