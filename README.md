@@ -133,6 +133,8 @@
 #### Web developement
 - [Web development fundamentals - Google](https://developers.google.com/web/fundamentals/)
 
+#### Data Warehouseing
+- [Basics of Data Warehousing. Must Read](http://www.1keydata.com/datawarehousing/datawarehouse.html). [Advice 1](http://www.1keydata.com/datawarehousing/quick-implementation.html), [Advice 2](http://www.1keydata.com/datawarehousing/recipes-for-failure.html)
 
 #### Reading
 - [How to read a book](https://www.farnamstreetblog.com/how-to-read-a-book/)
