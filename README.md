@@ -58,7 +58,8 @@
 * [HTTP/2 FAQs](https://http2.github.io/faq/)
 * [HTTP/2 best practices](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/)
 
-#### Platform & Arch
+#### Platform, Arch & Design
+* [Clean architecture - Separation of concerns](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Empire intro](http://engineering.remind.com/introducing-empire/)
 * [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
 * [12 factor app](http://12factor.net/)
