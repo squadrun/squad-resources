@@ -64,6 +64,7 @@
 * [Empire - Heroku like PaaS on top of AWS EC2](https://github.com/remind101/empire)
 * [12 factor app](http://12factor.net/)
 * [AWS ELB for RabbitMQ cluster](https://discuss.zendesk.com/hc/en-us/articles/219939187-Using-Amazon-ELB-with-RabbitMQ)
+* [Capacity planning](https://increment.com/cloud/an-engineers-guide-to-cloud-capacity-planning/)
 
 #### Python
 * [Zen of python](https://www.python.org/dev/peps/pep-0020/)
