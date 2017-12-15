@@ -36,6 +36,7 @@
 #### PostgreSQL
 * [Understanding Explain Analyze](https://www.depesz.com/tag/explain/)
 * [Visualizing Explain Analyze](https://explain.depesz.com/)
+* [Migrating data/scehma at scale - safe/unsafe operations at high volumes](http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WjNvgVT1WRs)
 * [Even Better `Explain Analyze` Visualisation -- PEV](http://tatiyants.com/postgres-query-plan-visualization/)
 * [Index Maintainenance Tips](https://wiki.postgresql.org/wiki/Index_Maintenance)
 * [Understanding Lateral Join in Postgres](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
