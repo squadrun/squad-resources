@@ -121,7 +121,7 @@
 # Product
 
 * [Start with the "why?"](https://www.youtube.com/watch?v=IPYeCltXpxw)
-* [First round product magzine](http://firstround.com/review/product/)
+* [First round product magazine](http://firstround.com/review/product/)
 
 ---
 
