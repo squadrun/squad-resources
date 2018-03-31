@@ -44,8 +44,9 @@
 * [Postgresql: Monitor unused indexes](https://jmorano.moretrix.com/2014/02/postgresql-monitor-unused-indexes/)
 * [Bloom Filters](https://en.wikipedia.org/wiki/Bloom_filter) (Check out Examples) and [Suggested Reading on it](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff#.xlkqtn1vy)
 
-#### Microservices
+#### Microservices & Monolith Architectures
 * [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
+* [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228?token=q-BFR4qDntb1SAxL)
 * [Django microservices made easy](https://opbeat.com/community/posts/django-microservices-made-easy-by-paul-hallett/)
 * [10 Questions to ask when building microservices](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
 * [A definition to the new architectural term - Martin Fowler](http://martinfowler.com/articles/microservices.html)
